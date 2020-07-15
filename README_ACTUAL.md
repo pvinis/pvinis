@@ -1,6 +1,6 @@
 describe:
 
-- hook
+- hook hooksPath
 
 - badword detector
 

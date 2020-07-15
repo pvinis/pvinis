@@ -1,10 +1,10 @@
 ## Latest commit containing bad words 😆
 
-Committed in repo [pvinis/flick](https://github.com/pvinis/flick), I wrote:
+Committed in repo [{{ repo }}](https://github.com/{{ repo }}), I wrote:
 
-**fucking npm and all its reserved names**
+**{{ message }}**
 
-Let's take a [look](https://github.com/pvinis/flick/commit/5568af7afbed142c30cd0f2cf4e1b027c72d169c) 🤔
+Let's take a [look](https://github.com/{{ repo }}/commit/{{ hash }}) 🤔
 
 
-<sub>[how does this work](https://github.com/pvinis/pvinis)</sub>
+<sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

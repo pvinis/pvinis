@@ -1,0 +1,9 @@
+{
+  "name": "commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bad-words": "^3.0.3"
+  }
+}

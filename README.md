@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Latest commit containing bad words 😆
 
 Committed in repo [pvinis/flick](https://github.com/pvinis/flick), it says:

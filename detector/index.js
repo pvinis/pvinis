@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const fs = require('fs')
-// const spawn = require('cross-spawn')
 const { spawn } = require('child_process')
 const BadWords = require('bad-words')
 
@@ -36,9 +35,7 @@ commits.map(commit => {
 			'/tmp/pvinis-commits-data.json',
 			JSON.stringify({ repo, message: commit.message, hash: commit.hash}),
 		)
-		// const a = spawn('~/Source/pvinis/pvinis/scripts/delayed-update.sh', { detached: true })
-		// spawn('ls > /tmp/pvinis-commits-data.json')
-		spawn(`${process.env.HOME}/Source/pvinis/pvinis/scripts/update.sh`, {detached: true, stdio: "ignore"})
+		spawn(`${process.env.HOME}/Source/pvinis/pvinis/scripts/update.sh`, {detached: true, stdio: "ignore"}) // fucking node..
 		stop = true
 	} else {
 		// console.log('clean')

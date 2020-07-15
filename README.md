@@ -1,6 +1,6 @@
 ## Latest commit containing bad words 😆
 
-Committed in repo [pvinis/flick](https://github.com/pvinis/flick), it says:
+Committed in repo [pvinis/flick](https://github.com/pvinis/flick), I wrote:
 
 **fucking npm and all its reserved names**
 

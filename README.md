@@ -1,9 +1,9 @@
 ## Latest commit containing bad words 😆
 
-Committed in repo [jbmorley/statuspanel](https://github.com/jbmorley/statuspanel), I wrote:
+Committed in repo [artsy/eigen](https://github.com/artsy/eigen), I wrote:
 
-**Un-fucking the Xcode developer certificates (I have no idea what happened here), and adding the wireless configuration profile.**
+**fucking linting.. Y U no work the first time?**
 
-Let's take a [look](https://github.com/jbmorley/statuspanel/commit/2ca3056c9687f3f35bed19111fd032520aed7545) 🤔
+Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc0a244faa17554d2828) 🤔
 
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

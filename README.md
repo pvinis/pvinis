@@ -1,9 +1,9 @@
 ## Latest commit containing bad words 😆
 
-Committed in repo [artsy/eigen](https://github.com/artsy/eigen), I wrote:
+Committed in repo [artsy/volt](https://github.com/artsy/volt), I wrote:
 
-**fucking linting.. Y U no work the first time?**
+**spec fixes (dont willy nilly remove installation image counts)**
 
-Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc0a244faa17554d2828) 🤔
+Let's take a [look](https://github.com/artsy/volt/commit/274b5bb88cab87a5623d58335741f7586491c479) 🤔
 
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

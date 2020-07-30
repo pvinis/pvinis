@@ -17,7 +17,7 @@ do
 
 	echo =======+
 	echo $url > /tmp/pvinis-commits
-	git log --pretty=format:'%H::::%s' "$range" >> /tmp/pvinis-commits
+	git log --pretty=format:'%H::::%s' "$range" --author=pvinis --author "Pavlos Vinieratos" >> /tmp/pvinis-commits
 	cd ~/Source/pvinis/pvinis
 	./detector/index.js
 	cd -

@@ -1,9 +1,9 @@
 ## Latest commit containing bad words 😆
 
-Committed in repo [artsy/palette](https://github.com/artsy/palette), I wrote:
+Committed in repo [artsy/eigen](https://github.com/artsy/eigen), I wrote:
 
-**adding knobs**
+**fucking linting.. Y U no work the first time?**
 
-Let's take a [look](https://github.com/artsy/palette/commit/643c8126eccb432f2ccc18c30622f2aba1e9f03b) 🤔
+Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc0a244faa17554d2828) 🤔
 
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

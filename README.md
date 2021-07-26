@@ -2,8 +2,8 @@
 
 Committed in repo [artsy/eigen](https://github.com/artsy/eigen), I wrote:
 
-**fucking linting.. Y U no work the first time?**
+**oh god**
 
-Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc0a244faa17554d2828) 🤔
+Let's take a [look](https://github.com/artsy/eigen/commit/a53729d86d576ba02cfbb9d2b3f5a8cb9f0aa173) 🤔
 
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

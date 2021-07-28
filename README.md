@@ -2,8 +2,8 @@
 
 Committed in repo [artsy/eigen](https://github.com/artsy/eigen), I wrote:
 
-**done. knobs are not working :(**
+**fucking linting.. Y U no work the first time?**
 
-Let's take a [look](https://github.com/artsy/eigen/commit/db46e8338727c38a081c273a4c7eb6f340760732) 🤔
+Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc0a244faa17554d2828) 🤔
 
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>

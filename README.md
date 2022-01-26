@@ -9,4 +9,4 @@ Let's take a [look](https://github.com/artsy/eigen/commit/d5da90d63c08121f8f57fc
 <sub>[how does this work](https://github.com/pvinis/pvinis/blob/master/README_ACTUAL.md)</sub>
 
 ## Some of my work
-- https://finish-h.im
+- [FINISH HIM !!](https://finish-h.im)
